@@ -1,3 +1,5 @@
+%Created by DARPAN VITHAL SARODE
+%ROLL BT17ECE056
 % 1.To perform Basic Image Processing Operations                                                       
 %   a. Arithmetic and Logical Operations
 clc;
